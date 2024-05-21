@@ -11,17 +11,17 @@ const LightWeight = () => {
                 <p className='text-[#EEE5FFBD] outfit text-md mb-4 text-center lg:mb-12'>Whether you're a seasoned web designer or just starting out, Motion Art for Elementor seamlessly integrates with the Elementor platform, providing you with a seamless and intuitive experience.</p>
             </div>
             <div className='flex flex-wrap lg:flex-nowrap justify-center items-center lg:justify-around lg:m-0'>
-                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-96'>
+                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-80'>
                     <img src={Bolt} alt="Not Found" className='h-36 w-36' />
                     <h1 className='text-[#EEE5FF] sora text-xl font-bold mt-4'>Light Weight</h1>
                     <p className='text-[#EEE5FFBD] outfit text-md mt-2'>Motion Art for Elementor is designed to be lightweight.</p>
                 </div>
-                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-96'>
+                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-80'>
                     <img src={Like} alt="Not Found" className='h-36 w-36' />
                     <h1 className='text-[#EEE5FF] sora text-xl font-bold mt-4'>100% Responsive</h1>
                     <p className='text-[#EEE5FFBD] outfit text-md mt-2'>Create a consistent visual experience across all devices.</p>
                 </div>
-                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-96'>
+                <div className='w-full lg:w-1/4 flex flex-col items-start bg-[#0e0f1a] border-2 border-[#6f6f6f] rounded-2xl shadow-md p-4 mx-2 my-4 lg:my-0 h-80'>
                     <img src={HalfMoon} alt="Not Found" className='h-36 w-36' />
                     <h1 className='text-[#EEE5FF] sora text-xl font-bold mt-4'>User Friendly Interface</h1>
                     <p className='text-[#EEE5FFBD] outfit text-md mt-2'>Ensure a smooth experience for both applicants and administrators.</p>
