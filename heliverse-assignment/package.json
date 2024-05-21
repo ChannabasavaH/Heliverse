@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "cd heliverse-assignment && vite build",
+    "serve": "serve -s heliverse-assignment/dist",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "serve": "serve -s dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "gsap": "^3.12.5",
